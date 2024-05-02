@@ -1,0 +1,11 @@
+D:\Telyu\Kontruksi Perangkat Lunak\testLibrary\testLibrary\bin\Debug\net8.0\kalkulatorLibrary.deps.json
+D:\Telyu\Kontruksi Perangkat Lunak\testLibrary\testLibrary\bin\Debug\net8.0\kalkulatorLibrary.dll
+D:\Telyu\Kontruksi Perangkat Lunak\testLibrary\testLibrary\bin\Debug\net8.0\kalkulatorLibrary.pdb
+D:\Telyu\Kontruksi Perangkat Lunak\testLibrary\testLibrary\obj\Debug\net8.0\kalkulatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Telyu\Kontruksi Perangkat Lunak\testLibrary\testLibrary\obj\Debug\net8.0\kalkulatorLibrary.AssemblyInfoInputs.cache
+D:\Telyu\Kontruksi Perangkat Lunak\testLibrary\testLibrary\obj\Debug\net8.0\kalkulatorLibrary.AssemblyInfo.cs
+D:\Telyu\Kontruksi Perangkat Lunak\testLibrary\testLibrary\obj\Debug\net8.0\kalkulatorLibrary.csproj.CoreCompileInputs.cache
+D:\Telyu\Kontruksi Perangkat Lunak\testLibrary\testLibrary\obj\Debug\net8.0\kalkulatorLibrary.dll
+D:\Telyu\Kontruksi Perangkat Lunak\testLibrary\testLibrary\obj\Debug\net8.0\refint\kalkulatorLibrary.dll
+D:\Telyu\Kontruksi Perangkat Lunak\testLibrary\testLibrary\obj\Debug\net8.0\kalkulatorLibrary.pdb
+D:\Telyu\Kontruksi Perangkat Lunak\testLibrary\testLibrary\obj\Debug\net8.0\ref\kalkulatorLibrary.dll
